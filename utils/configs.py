@@ -50,7 +50,7 @@ You Can Send An Image As Forwarded Message From Any Chat/Channel Or Upload It As
 
     HELP_TEXT = """💡 Just Send Me Your Photo And I'll Upload it To You .  That's it
 
-❤ [Donate](https://www.paypal.me/AmineSoukara) (PayPal)
+❤ [Donate](https://www.paypal.me/diivmas) (PayPal)
 """
 
     ERR_TEXT = "⚠️ API Not Found"
