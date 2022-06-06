@@ -30,31 +30,22 @@ class Var(object):
 class Tr(object):
 
     START_TEXT = """
-👋 Hi ! {} Welcome To @ImgBBRobot
+👋 Hi ! {} Welcome
 
 **With This Bot You Can Hosts Your Images On imgbb.com **
 
 You Can Send An Image As Forwarded Message From Any Chat/Channel Or Upload It As Photo Or File.
 """
 
-    ABOUT_TEXT = """🤖 **My Name:** [ImgBB](t.me/ImgBBRobot)
-
-📝 **Language:** [Python 3](https://www.python.org)
+    ABOUT_TEXT = """📝 **Language:** [Python 3](https://www.python.org)
 
 📚 **Framework:** [Pyrogram](https://github.com/pyrogram/pyrogram)
 
 📡 **Hosted On:** [Railway](railway.app)
 
-👨‍💻 **Developer:** [Amine Soukara](t.me/AmineSoukara)
+👨‍💻 **Developer:** [div](t.me/divmas)
 
-💡 **Source Code:** [Github](https://github.com/AmineSoukara/ImgBB-Bot/fork)
-
-👥 **Support Group:** [Damien Help](https://t.me/DamienHelp)
-
-📢 **Updates Channel:** [Damien Soukara](https://t.me/DamienSoukara)
-
-
-❤ [Donate](https://www.paypal.me/AmineSoukara) (PayPal)
+📢 **Updates Channel:** [dlksyz](https://t.me/+ku2kx0h4KRFkOTll)
 """
 
     HELP_TEXT = """💡 Just Send Me Your Photo And I'll Upload it To You .  That's it
